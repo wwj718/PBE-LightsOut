@@ -17,3 +17,5 @@ LOGame new openInWorld.
 ```
 
 do it!
+
+![](./lightsout_game.png)
