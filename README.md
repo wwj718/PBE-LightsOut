@@ -4,6 +4,11 @@
 # Install
 work with Iceberg : [Iceberg Tutorial](https://github.com/pharo-vcs/iceberg/wiki/Tutorial)
 
+![](./github_repo_conf.png)
+
+![](./repo_load.png)
+
+
 # Usage
 open a Playground:
 
